@@ -1,3 +1,6 @@
+![Tests](https://github.com/dietercoopman/timetravel/workflows/tests/badge.svg)
+![Downloads](https://img.shields.io/packagist/dt/dietercoopman/timetravel.svg?style=flat-square)
+
 # Timetravel
 
 Simple time travel class
